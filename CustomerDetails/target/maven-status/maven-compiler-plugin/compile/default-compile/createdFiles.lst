@@ -1,0 +1,6 @@
+com\mayuratech\demo\entity\Customer.class
+com\mayuratech\demo\repository\CustomerRepository.class
+com\mayuratech\demo\controller\CustomerController.class
+com\mayuratech\demo\config\SwaggerConfig.class
+com\mayuratech\demo\CustomerDetailsApplication.class
+com\mayuratech\demo\service\CustomerService.class
